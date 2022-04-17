@@ -1,0 +1,2268 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "FBSDKCoreKit",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Accelerate",
+      "printedName": "Accelerate",
+      "declKind": "Import",
+      "moduleName": "FBSDKCoreKit",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "FBSDKCoreKit",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Permission",
+      "printedName": "Permission",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "publicProfile",
+          "printedName": "publicProfile",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO13publicProfileyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO13publicProfileyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 0
+        },
+        {
+          "kind": "Var",
+          "name": "userFriends",
+          "printedName": "userFriends",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO11userFriendsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO11userFriendsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 1
+        },
+        {
+          "kind": "Var",
+          "name": "email",
+          "printedName": "email",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO5emailyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO5emailyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 2
+        },
+        {
+          "kind": "Var",
+          "name": "userAboutMe",
+          "printedName": "userAboutMe",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO11userAboutMeyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO11userAboutMeyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 3
+        },
+        {
+          "kind": "Var",
+          "name": "userActionsBooks",
+          "printedName": "userActionsBooks",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO16userActionsBooksyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO16userActionsBooksyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 4
+        },
+        {
+          "kind": "Var",
+          "name": "userActionsFitness",
+          "printedName": "userActionsFitness",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO18userActionsFitnessyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO18userActionsFitnessyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 5
+        },
+        {
+          "kind": "Var",
+          "name": "userActionsMusic",
+          "printedName": "userActionsMusic",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO16userActionsMusicyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO16userActionsMusicyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 6
+        },
+        {
+          "kind": "Var",
+          "name": "userActionsNews",
+          "printedName": "userActionsNews",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO15userActionsNewsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO15userActionsNewsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 7
+        },
+        {
+          "kind": "Var",
+          "name": "userActionsVideo",
+          "printedName": "userActionsVideo",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO16userActionsVideoyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO16userActionsVideoyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 8
+        },
+        {
+          "kind": "Var",
+          "name": "userBirthday",
+          "printedName": "userBirthday",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO12userBirthdayyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO12userBirthdayyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 9
+        },
+        {
+          "kind": "Var",
+          "name": "userEducationHistory",
+          "printedName": "userEducationHistory",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO20userEducationHistoryyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO20userEducationHistoryyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 10
+        },
+        {
+          "kind": "Var",
+          "name": "userEvents",
+          "printedName": "userEvents",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO10userEventsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO10userEventsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 11
+        },
+        {
+          "kind": "Var",
+          "name": "userGamesActivity",
+          "printedName": "userGamesActivity",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO17userGamesActivityyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO17userGamesActivityyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 12
+        },
+        {
+          "kind": "Var",
+          "name": "userGender",
+          "printedName": "userGender",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO10userGenderyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO10userGenderyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 13
+        },
+        {
+          "kind": "Var",
+          "name": "userHometown",
+          "printedName": "userHometown",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO12userHometownyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO12userHometownyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 14
+        },
+        {
+          "kind": "Var",
+          "name": "userLikes",
+          "printedName": "userLikes",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO9userLikesyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO9userLikesyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 15
+        },
+        {
+          "kind": "Var",
+          "name": "userLocation",
+          "printedName": "userLocation",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO12userLocationyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO12userLocationyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 16
+        },
+        {
+          "kind": "Var",
+          "name": "userManagedGroups",
+          "printedName": "userManagedGroups",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO17userManagedGroupsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO17userManagedGroupsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 17
+        },
+        {
+          "kind": "Var",
+          "name": "userPhotos",
+          "printedName": "userPhotos",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO10userPhotosyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO10userPhotosyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 18
+        },
+        {
+          "kind": "Var",
+          "name": "userPosts",
+          "printedName": "userPosts",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO9userPostsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO9userPostsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 19
+        },
+        {
+          "kind": "Var",
+          "name": "userRelationships",
+          "printedName": "userRelationships",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO17userRelationshipsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO17userRelationshipsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 20
+        },
+        {
+          "kind": "Var",
+          "name": "userRelationshipDetails",
+          "printedName": "userRelationshipDetails",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO23userRelationshipDetailsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO23userRelationshipDetailsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 21
+        },
+        {
+          "kind": "Var",
+          "name": "userReligionPolitics",
+          "printedName": "userReligionPolitics",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO20userReligionPoliticsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO20userReligionPoliticsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 22
+        },
+        {
+          "kind": "Var",
+          "name": "userTaggedPlaces",
+          "printedName": "userTaggedPlaces",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO16userTaggedPlacesyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO16userTaggedPlacesyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 23
+        },
+        {
+          "kind": "Var",
+          "name": "userVideos",
+          "printedName": "userVideos",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO10userVideosyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO10userVideosyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 24
+        },
+        {
+          "kind": "Var",
+          "name": "userWebsite",
+          "printedName": "userWebsite",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO11userWebsiteyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO11userWebsiteyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 25
+        },
+        {
+          "kind": "Var",
+          "name": "userWorkHistory",
+          "printedName": "userWorkHistory",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO15userWorkHistoryyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO15userWorkHistoryyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 26
+        },
+        {
+          "kind": "Var",
+          "name": "readCustomFriendlists",
+          "printedName": "readCustomFriendlists",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO21readCustomFriendlistsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO21readCustomFriendlistsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 27
+        },
+        {
+          "kind": "Var",
+          "name": "readInsights",
+          "printedName": "readInsights",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO12readInsightsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO12readInsightsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 28
+        },
+        {
+          "kind": "Var",
+          "name": "readAudienceNetworkInsights",
+          "printedName": "readAudienceNetworkInsights",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO27readAudienceNetworkInsightsyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO27readAudienceNetworkInsightsyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 29
+        },
+        {
+          "kind": "Var",
+          "name": "readPageMailboxes",
+          "printedName": "readPageMailboxes",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO17readPageMailboxesyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO17readPageMailboxesyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 30
+        },
+        {
+          "kind": "Var",
+          "name": "pagesShowList",
+          "printedName": "pagesShowList",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO13pagesShowListyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO13pagesShowListyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 31
+        },
+        {
+          "kind": "Var",
+          "name": "pagesManageCta",
+          "printedName": "pagesManageCta",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO14pagesManageCtayA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO14pagesManageCtayA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 32
+        },
+        {
+          "kind": "Var",
+          "name": "pagesManageInstantArticles",
+          "printedName": "pagesManageInstantArticles",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO26pagesManageInstantArticlesyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO26pagesManageInstantArticlesyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 33
+        },
+        {
+          "kind": "Var",
+          "name": "adsRead",
+          "printedName": "adsRead",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO7adsReadyA2CmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO7adsReadyA2CmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 34
+        },
+        {
+          "kind": "Var",
+          "name": "custom",
+          "printedName": "custom",
+          "children": [
+            {
+              "kind": "TypeFunc",
+              "name": "Function",
+              "printedName": "(FBSDKCoreKit.Permission.Type) -> (Swift.String) -> FBSDKCoreKit.Permission",
+              "children": [
+                {
+                  "kind": "TypeFunc",
+                  "name": "Function",
+                  "printedName": "(Swift.String) -> FBSDKCoreKit.Permission",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    }
+                  ]
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Metatype",
+                  "printedName": "FBSDKCoreKit.Permission.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "declKind": "EnumElement",
+          "usr": "s:12FBSDKCoreKit10PermissionO6customyACSScACmF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO6customyACSScACmF",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "fixedbinaryorder": 35
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init(stringLiteral:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Permission",
+              "printedName": "FBSDKCoreKit.Permission",
+              "usr": "s:12FBSDKCoreKit10PermissionO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:12FBSDKCoreKit10PermissionO13stringLiteralACSS_tcfc",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO13stringLiteralACSS_tcfc",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "init_kind": "Designated"
+        },
+        {
+          "kind": "Var",
+          "name": "name",
+          "printedName": "name",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "String",
+              "printedName": "Swift.String",
+              "usr": "s:SS"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12FBSDKCoreKit10PermissionO4nameSSvp",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO4nameSSvp",
+          "moduleName": "FBSDKCoreKit",
+          "declAttributes": [
+            "AccessControl"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12FBSDKCoreKit10PermissionO4nameSSvg",
+              "mangledName": "$s12FBSDKCoreKit10PermissionO4nameSSvg",
+              "moduleName": "FBSDKCoreKit",
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "hashValue",
+          "printedName": "hashValue",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Int",
+              "printedName": "Swift.Int",
+              "usr": "s:Si"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:12FBSDKCoreKit10PermissionO9hashValueSivp",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO9hashValueSivp",
+          "moduleName": "FBSDKCoreKit",
+          "implicit": true,
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Int",
+                  "printedName": "Swift.Int",
+                  "usr": "s:Si"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:12FBSDKCoreKit10PermissionO9hashValueSivg",
+              "mangledName": "$s12FBSDKCoreKit10PermissionO9hashValueSivg",
+              "moduleName": "FBSDKCoreKit",
+              "implicit": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "hash",
+          "printedName": "hash(into:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Void",
+              "printedName": "()"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Hasher",
+              "printedName": "Swift.Hasher",
+              "paramValueOwnership": "InOut",
+              "usr": "s:s6HasherV"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12FBSDKCoreKit10PermissionO4hash4intoys6HasherVz_tF",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO4hash4intoys6HasherVz_tF",
+          "moduleName": "FBSDKCoreKit",
+          "implicit": true,
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "__derived_enum_equals",
+          "printedName": "__derived_enum_equals(_:_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Permission",
+              "printedName": "FBSDKCoreKit.Permission",
+              "usr": "s:12FBSDKCoreKit10PermissionO"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Permission",
+              "printedName": "FBSDKCoreKit.Permission",
+              "usr": "s:12FBSDKCoreKit10PermissionO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:12FBSDKCoreKit10PermissionO21__derived_enum_equalsySbAC_ACtFZ",
+          "mangledName": "$s12FBSDKCoreKit10PermissionO21__derived_enum_equalsySbAC_ACtFZ",
+          "moduleName": "FBSDKCoreKit",
+          "static": true,
+          "implicit": true,
+          "declAttributes": [
+            "Implements"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Enum",
+      "usr": "s:12FBSDKCoreKit10PermissionO",
+      "mangledName": "$s12FBSDKCoreKit10PermissionO",
+      "moduleName": "FBSDKCoreKit",
+      "declAttributes": [
+        "AccessControl",
+        "RawDocComment"
+      ],
+      "isEnumExhaustive": true,
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ExpressibleByStringLiteral",
+          "printedName": "ExpressibleByStringLiteral",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "StringLiteralType",
+              "printedName": "StringLiteralType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "usr": "s:s26ExpressibleByStringLiteralP",
+          "mangledName": "$ss26ExpressibleByStringLiteralP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ExpressibleByExtendedGraphemeClusterLiteral",
+          "printedName": "ExpressibleByExtendedGraphemeClusterLiteral",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "ExtendedGraphemeClusterLiteralType",
+              "printedName": "ExtendedGraphemeClusterLiteralType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "usr": "s:s43ExpressibleByExtendedGraphemeClusterLiteralP",
+          "mangledName": "$ss43ExpressibleByExtendedGraphemeClusterLiteralP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ExpressibleByUnicodeScalarLiteral",
+          "printedName": "ExpressibleByUnicodeScalarLiteral",
+          "children": [
+            {
+              "kind": "TypeWitness",
+              "name": "UnicodeScalarLiteralType",
+              "printedName": "UnicodeScalarLiteralType",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "String",
+                  "printedName": "Swift.String",
+                  "usr": "s:SS"
+                }
+              ]
+            }
+          ],
+          "usr": "s:s33ExpressibleByUnicodeScalarLiteralP",
+          "mangledName": "$ss33ExpressibleByUnicodeScalarLiteralP"
+        }
+      ]
+    },
+    {
+      "kind": "Import",
+      "name": "Foundation",
+      "printedName": "Foundation",
+      "declKind": "Import",
+      "moduleName": "FBSDKCoreKit",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "AccessToken",
+      "printedName": "AccessToken",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "permissions",
+          "printedName": "permissions",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Set",
+              "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                }
+              ],
+              "usr": "s:Sh"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE11permissionsShyAC10PermissionOGvp",
+          "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE11permissionsShyAC10PermissionOGvp",
+          "moduleName": "FBSDKCoreKit",
+          "isOpen": true,
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Set",
+                  "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ],
+                  "usr": "s:Sh"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE11permissionsShyAC10PermissionOGvg",
+              "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE11permissionsShyAC10PermissionOGvg",
+              "moduleName": "FBSDKCoreKit",
+              "isOpen": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "declinedPermissions",
+          "printedName": "declinedPermissions",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Set",
+              "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                }
+              ],
+              "usr": "s:Sh"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE19declinedPermissionsShyAC10PermissionOGvp",
+          "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE19declinedPermissionsShyAC10PermissionOGvp",
+          "moduleName": "FBSDKCoreKit",
+          "isOpen": true,
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Set",
+                  "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ],
+                  "usr": "s:Sh"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE19declinedPermissionsShyAC10PermissionOGvg",
+              "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE19declinedPermissionsShyAC10PermissionOGvg",
+              "moduleName": "FBSDKCoreKit",
+              "isOpen": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Var",
+          "name": "expiredPermissions",
+          "printedName": "expiredPermissions",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Set",
+              "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Permission",
+                  "printedName": "FBSDKCoreKit.Permission",
+                  "usr": "s:12FBSDKCoreKit10PermissionO"
+                }
+              ],
+              "usr": "s:Sh"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE18expiredPermissionsShyAC10PermissionOGvp",
+          "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE18expiredPermissionsShyAC10PermissionOGvp",
+          "moduleName": "FBSDKCoreKit",
+          "isOpen": true,
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Set",
+                  "printedName": "Swift.Set<FBSDKCoreKit.Permission>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Permission",
+                      "printedName": "FBSDKCoreKit.Permission",
+                      "usr": "s:12FBSDKCoreKit10PermissionO"
+                    }
+                  ],
+                  "usr": "s:Sh"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE18expiredPermissionsShyAC10PermissionOGvg",
+              "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE18expiredPermissionsShyAC10PermissionOGvg",
+              "moduleName": "FBSDKCoreKit",
+              "isOpen": true,
+              "accessorKind": "get"
+            }
+          ]
+        },
+        {
+          "kind": "Function",
+          "name": "hasGranted",
+          "printedName": "hasGranted(_:)",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Bool",
+              "printedName": "Swift.Bool",
+              "usr": "s:Sb"
+            },
+            {
+              "kind": "TypeNominal",
+              "name": "Permission",
+              "printedName": "FBSDKCoreKit.Permission",
+              "usr": "s:12FBSDKCoreKit10PermissionO"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:So16FBSDKAccessTokenC12FBSDKCoreKitE10hasGrantedySbAC10PermissionOF",
+          "mangledName": "$sSo16FBSDKAccessTokenC12FBSDKCoreKitE10hasGrantedySbAC10PermissionOF",
+          "moduleName": "FBSDKCoreKit",
+          "isOpen": true,
+          "declAttributes": [
+            "RawDocComment"
+          ],
+          "funcSelfKind": "NonMutating"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:objc(cs)FBSDKAccessToken",
+      "moduleName": "FBSDKCoreKit",
+      "isOpen": true,
+      "objc_name": "FBSDKAccessToken",
+      "declAttributes": [
+        "ObjC",
+        "Dynamic"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "isExternal": true,
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "Settings",
+      "printedName": "Settings",
+      "children": [
+        {
+          "kind": "Var",
+          "name": "loggingBehaviors",
+          "printedName": "loggingBehaviors",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Set",
+              "printedName": "Swift.Set<FBSDKCoreKit.LoggingBehavior>",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "LoggingBehavior",
+                  "printedName": "FBSDKCoreKit.LoggingBehavior",
+                  "usr": "c:FBSDKSettings.h@T@FBSDKLoggingBehavior"
+                }
+              ],
+              "usr": "s:Sh"
+            }
+          ],
+          "declKind": "Var",
+          "usr": "s:So13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvpZ",
+          "mangledName": "$sSo13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvpZ",
+          "moduleName": "FBSDKCoreKit",
+          "static": true,
+          "declAttributes": [
+            "Final",
+            "RawDocComment"
+          ],
+          "accessors": [
+            {
+              "kind": "Accessor",
+              "name": "Get",
+              "printedName": "Get()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Set",
+                  "printedName": "Swift.Set<FBSDKCoreKit.LoggingBehavior>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LoggingBehavior",
+                      "printedName": "FBSDKCoreKit.LoggingBehavior",
+                      "usr": "c:FBSDKSettings.h@T@FBSDKLoggingBehavior"
+                    }
+                  ],
+                  "usr": "s:Sh"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvgZ",
+              "mangledName": "$sSo13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvgZ",
+              "moduleName": "FBSDKCoreKit",
+              "static": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "get"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Set",
+              "printedName": "Set()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                },
+                {
+                  "kind": "TypeNominal",
+                  "name": "Set",
+                  "printedName": "Swift.Set<FBSDKCoreKit.LoggingBehavior>",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "LoggingBehavior",
+                      "printedName": "FBSDKCoreKit.LoggingBehavior",
+                      "usr": "c:FBSDKSettings.h@T@FBSDKLoggingBehavior"
+                    }
+                  ],
+                  "usr": "s:Sh"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvsZ",
+              "mangledName": "$sSo13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvsZ",
+              "moduleName": "FBSDKCoreKit",
+              "static": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "set"
+            },
+            {
+              "kind": "Accessor",
+              "name": "Modify",
+              "printedName": "Modify()",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Void",
+                  "printedName": "()"
+                }
+              ],
+              "declKind": "Accessor",
+              "usr": "s:So13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvMZ",
+              "mangledName": "$sSo13FBSDKSettingsC12FBSDKCoreKitE16loggingBehaviorsShySo20FBSDKLoggingBehavioraGvMZ",
+              "moduleName": "FBSDKCoreKit",
+              "static": true,
+              "implicit": true,
+              "declAttributes": [
+                "Final"
+              ],
+              "accessorKind": "_modify"
+            }
+          ]
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:objc(cs)FBSDKSettings",
+      "moduleName": "FBSDKCoreKit",
+      "isOpen": true,
+      "objc_name": "FBSDKSettings",
+      "declAttributes": [
+        "ObjC",
+        "Dynamic"
+      ],
+      "superclassUsr": "c:objc(cs)NSObject",
+      "isExternal": true,
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

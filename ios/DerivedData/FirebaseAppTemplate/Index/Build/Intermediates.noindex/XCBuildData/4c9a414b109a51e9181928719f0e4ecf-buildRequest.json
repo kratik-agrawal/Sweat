@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "2cf07c2c7d90adb53d7aa9f9af1059b97ceb6b36bcfc2fb90f69ac96de4975d6"
+    }
+  ],
+  "containerPath" : "/Users/kratik/Desktop/cs97/Bump/ios/FirebaseAppTemplate.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Index/Build/Products",
+      "derivedDataPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

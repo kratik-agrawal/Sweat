@@ -1,0 +1,34 @@
+dependencies: \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKModelManager.mm \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/Target\ Support\ Files/FBSDKCoreKit/FBSDKCoreKit-prefix.pch \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKModelManager.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppEvents+Internal.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/FBSDKAppEvents.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/GraphAPI/FBSDKGraphRequestConnection.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/FBSDKAppEventsUtility.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKCoreKitBasicsImport.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKCoreKit_Basics.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKBasicUtility.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKCrashHandler.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKCrashObserving.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKJSONValue.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKLibAnalyzer.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKSafeCast.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKSessionProviding.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKTypeUtility.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKURLSession.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKURLSessionTask.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/Sources/FBSDKCoreKit_Basics/include/FBSDKUserDataStore.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/SuggestedEvents/FBSDKFeatureExtractor.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Internal/FBSDKFeatureManager.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/GraphAPI/FBSDKGraphRequest.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/GraphAPI/FBSDKGraphRequestProtocol.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/GraphAPI/FBSDKGraphRequestHTTPMethod.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/Integrity/FBSDKIntegrityManager.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKMLMacros.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKModelParser.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKTensor.hpp \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKModelRuntime.hpp \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/ML/FBSDKModelUtility.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/FBSDKSettings.h \
+  /Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/AppEvents/Internal/SuggestedEvents/FBSDKSuggestedEventsIndexer.h

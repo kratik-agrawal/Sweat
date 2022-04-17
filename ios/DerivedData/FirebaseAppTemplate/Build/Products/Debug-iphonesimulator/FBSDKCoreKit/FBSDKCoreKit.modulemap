@@ -1,0 +1,12 @@
+module FBSDKCoreKit {
+  umbrella header "FBSDKCoreKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module FBSDKCoreKit.Swift {
+  header "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Build/Products/Debug-iphonesimulator/FBSDKCoreKit/Swift Compatibility Header/FBSDKCoreKit-Swift.h"
+  requires objc
+}

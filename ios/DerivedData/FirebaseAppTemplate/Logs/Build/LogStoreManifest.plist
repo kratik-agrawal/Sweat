@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>5654FF04-7817-4DC2-A2C9-40CEC02EC777</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5654FF04-7817-4DC2-A2C9-40CEC02EC777.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseAppTemplate project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseAppTemplate</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseAppTemplate</string>
+			<key>timeStartedRecording</key>
+			<real>671828501.13992</real>
+			<key>timeStoppedRecording</key>
+			<real>671828503.90559196</real>
+			<key>title</key>
+			<string>Build FirebaseAppTemplate</string>
+			<key>uniqueIdentifier</key>
+			<string>5654FF04-7817-4DC2-A2C9-40CEC02EC777</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "69679e206e999ceb75ced23bcd9d80684129700f3aa195eb4c2f4fe50aea896a"
+build_start_time: [1650137998, 4606008]
+build_end_time: [1650137998, 662413120]
+inputs:
+  "/Users/kratik/Desktop/cs97/Bump/ios/FirebaseAppTemplate/noop-file.swift": [1650134640, 452999114]
+  "/Users/kratik/Desktop/cs97/Bump/ios/Pods/Target Support Files/Pods-FirebaseAppTemplate/ExpoModulesProvider.swift": [1650134721, 517551422]

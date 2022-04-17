@@ -1,0 +1,12 @@
+module ExpoModulesCore {
+  umbrella header "ExpoModulesCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+
+module ExpoModulesCore.Swift {
+  header "/Users/kratik/Desktop/cs97/Bump/ios/DerivedData/FirebaseAppTemplate/Build/Products/Debug-iphonesimulator/ExpoModulesCore/Swift Compatibility Header/ExpoModulesCore-Swift.h"
+  requires objc
+}

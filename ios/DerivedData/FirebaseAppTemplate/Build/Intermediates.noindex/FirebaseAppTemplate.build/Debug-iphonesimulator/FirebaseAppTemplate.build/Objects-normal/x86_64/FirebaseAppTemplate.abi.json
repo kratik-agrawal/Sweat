@@ -1,0 +1,261 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "ExpoModulesCore",
+      "printedName": "ExpoModulesCore",
+      "declKind": "Import",
+      "moduleName": "FirebaseAppTemplate",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ExpoModulesProvider",
+      "printedName": "ExpoModulesProvider",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "getModuleClasses",
+          "printedName": "getModuleClasses()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[ExpoModulesCore.AnyModule.Type]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ExistentialMetatype",
+                  "printedName": "ExpoModulesCore.AnyModule.Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "AnyModule",
+                      "printedName": "ExpoModulesCore.AnyModule",
+                      "usr": "s:15ExpoModulesCore9AnyModuleP"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC16getModuleClassesSay0dE4Core03AnyH0_pXpGyF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC16getModuleClassesSay0dE4Core03AnyH0_pXpGyF",
+          "moduleName": "FirebaseAppTemplate",
+          "overriding": true,
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "getAppDelegateSubscribers",
+          "printedName": "getAppDelegateSubscribers()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[(ExpoModulesCore.BaseExpoAppDelegateSubscriber & ExpoModulesCore.ExpoAppDelegateSubscriberProtocol).Type]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "ExistentialMetatype",
+                  "printedName": "(ExpoModulesCore.BaseExpoAppDelegateSubscriber & ExpoModulesCore.ExpoAppDelegateSubscriberProtocol).Type",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "ProtocolComposition",
+                      "printedName": "ExpoModulesCore.BaseExpoAppDelegateSubscriber & ExpoModulesCore.ExpoAppDelegateSubscriberProtocol"
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC03getB19DelegateSubscribersSay0dE4Core0dbH18SubscriberProtocol_AE04BasedbhK0CXcXpGyF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC03getB19DelegateSubscribersSay0dE4Core0dbH18SubscriberProtocol_AE04BasedbhK0CXcXpGyF",
+          "moduleName": "FirebaseAppTemplate",
+          "overriding": true,
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "getReactDelegateHandlers",
+          "printedName": "getReactDelegateHandlers()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Array",
+              "printedName": "[(packageName: Swift.String, handler: ExpoModulesCore.ExpoReactDelegateHandler.Type)]",
+              "children": [
+                {
+                  "kind": "TypeNominal",
+                  "name": "Tuple",
+                  "printedName": "(packageName: Swift.String, handler: ExpoModulesCore.ExpoReactDelegateHandler.Type)",
+                  "children": [
+                    {
+                      "kind": "TypeNominal",
+                      "name": "String",
+                      "printedName": "Swift.String",
+                      "usr": "s:SS"
+                    },
+                    {
+                      "kind": "TypeNominal",
+                      "name": "Metatype",
+                      "printedName": "ExpoModulesCore.ExpoReactDelegateHandler.Type",
+                      "children": [
+                        {
+                          "kind": "TypeNominal",
+                          "name": "ExpoReactDelegateHandler",
+                          "printedName": "ExpoModulesCore.ExpoReactDelegateHandler",
+                          "usr": "c:@M@ExpoModulesCore@objc(cs)ExpoReactDelegateHandler"
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "usr": "s:Sa"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC24getReactDelegateHandlersSaySS11packageName_0dE4Core0dhI7HandlerCm7handlertGyF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC24getReactDelegateHandlersSaySS11packageName_0dE4Core0dhI7HandlerCm7handlertGyF",
+          "moduleName": "FirebaseAppTemplate",
+          "overriding": true,
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ExpoModulesProvider",
+              "printedName": "FirebaseAppTemplate.ExpoModulesProvider",
+              "usr": "c:@M@FirebaseAppTemplate@objc(cs)ExpoModulesProvider"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "c:@M@FirebaseAppTemplate@objc(cs)ExpoModulesProvider(im)init",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderCACycfc",
+          "moduleName": "FirebaseAppTemplate",
+          "overriding": true,
+          "implicit": true,
+          "objc_name": "init",
+          "declAttributes": [
+            "Dynamic",
+            "ObjC",
+            "Override"
+          ],
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@FirebaseAppTemplate@objc(cs)ExpoModulesProvider",
+      "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC",
+      "moduleName": "FirebaseAppTemplate",
+      "isOpen": true,
+      "objc_name": "ExpoModulesProvider",
+      "declAttributes": [
+        "AccessControl",
+        "ObjC"
+      ],
+      "superclassUsr": "c:@M@ExpoModulesCore@objc(cs)ModulesProvider",
+      "inheritsConvenienceInitializers": true,
+      "superclassNames": [
+        "ExpoModulesCore.ModulesProvider",
+        "ObjectiveC.NSObject"
+      ],
+      "conformances": [
+        {
+          "kind": "Conformance",
+          "name": "ModulesProviderProtocol",
+          "printedName": "ModulesProviderProtocol",
+          "usr": "s:15ExpoModulesCore0B16ProviderProtocolP",
+          "mangledName": "$s15ExpoModulesCore0B16ProviderProtocolP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "ModulesProviderObjCProtocol",
+          "printedName": "ModulesProviderObjCProtocol",
+          "usr": "c:@M@ExpoModulesCore@objc(pl)ModulesProviderObjCProtocol",
+          "mangledName": "$s15ExpoModulesCore0B20ProviderObjCProtocolP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Equatable",
+          "printedName": "Equatable",
+          "usr": "s:SQ",
+          "mangledName": "$sSQ"
+        },
+        {
+          "kind": "Conformance",
+          "name": "Hashable",
+          "printedName": "Hashable",
+          "usr": "s:SH",
+          "mangledName": "$sSH"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CVarArg",
+          "printedName": "CVarArg",
+          "usr": "s:s7CVarArgP",
+          "mangledName": "$ss7CVarArgP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObservingPublishing",
+          "printedName": "_KeyValueCodingAndObservingPublishing",
+          "usr": "s:10Foundation37_KeyValueCodingAndObservingPublishingP",
+          "mangledName": "$s10Foundation37_KeyValueCodingAndObservingPublishingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "_KeyValueCodingAndObserving",
+          "printedName": "_KeyValueCodingAndObserving",
+          "usr": "s:10Foundation27_KeyValueCodingAndObservingP",
+          "mangledName": "$s10Foundation27_KeyValueCodingAndObservingP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomStringConvertible",
+          "printedName": "CustomStringConvertible",
+          "usr": "s:s23CustomStringConvertibleP",
+          "mangledName": "$ss23CustomStringConvertibleP"
+        },
+        {
+          "kind": "Conformance",
+          "name": "CustomDebugStringConvertible",
+          "printedName": "CustomDebugStringConvertible",
+          "usr": "s:s28CustomDebugStringConvertibleP",
+          "mangledName": "$ss28CustomDebugStringConvertibleP"
+        }
+      ]
+    }
+  ],
+  "json_format_version": 6
+}

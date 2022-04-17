@@ -1,0 +1,120 @@
+{
+  "kind": "Root",
+  "name": "TopLevel",
+  "printedName": "TopLevel",
+  "children": [
+    {
+      "kind": "Import",
+      "name": "ExpoModulesCore",
+      "printedName": "ExpoModulesCore",
+      "declKind": "Import",
+      "moduleName": "FirebaseAppTemplate",
+      "declAttributes": [
+        "RawDocComment"
+      ]
+    },
+    {
+      "kind": "TypeDecl",
+      "name": "ExpoModulesProvider",
+      "printedName": "ExpoModulesProvider",
+      "children": [
+        {
+          "kind": "Function",
+          "name": "getModuleClasses",
+          "printedName": "getModuleClasses()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Error",
+              "printedName": "<<error type>>"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC16getModuleClassesyXeXeF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC16getModuleClassesyXeXeF",
+          "moduleName": "FirebaseAppTemplate",
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "getAppDelegateSubscribers",
+          "printedName": "getAppDelegateSubscribers()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Error",
+              "printedName": "<<error type>>"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC03getB19DelegateSubscribersyXeXeF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC03getB19DelegateSubscribersyXeXeF",
+          "moduleName": "FirebaseAppTemplate",
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Function",
+          "name": "getReactDelegateHandlers",
+          "printedName": "getReactDelegateHandlers()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "Error",
+              "printedName": "<<error type>>"
+            }
+          ],
+          "declKind": "Func",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderC24getReactDelegateHandlersyXeXeF",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC24getReactDelegateHandlersyXeXeF",
+          "moduleName": "FirebaseAppTemplate",
+          "isOpen": true,
+          "declAttributes": [
+            "Override",
+            "AccessControl"
+          ],
+          "funcSelfKind": "NonMutating"
+        },
+        {
+          "kind": "Constructor",
+          "name": "init",
+          "printedName": "init()",
+          "children": [
+            {
+              "kind": "TypeNominal",
+              "name": "ExpoModulesProvider",
+              "printedName": "FirebaseAppTemplate.ExpoModulesProvider",
+              "usr": "c:@M@FirebaseAppTemplate@objc(cs)ExpoModulesProvider"
+            }
+          ],
+          "declKind": "Constructor",
+          "usr": "s:19FirebaseAppTemplate19ExpoModulesProviderCACycfc",
+          "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderCACycfc",
+          "moduleName": "FirebaseAppTemplate",
+          "implicit": true,
+          "init_kind": "Designated"
+        }
+      ],
+      "declKind": "Class",
+      "usr": "c:@M@FirebaseAppTemplate@objc(cs)ExpoModulesProvider",
+      "mangledName": "$s19FirebaseAppTemplate19ExpoModulesProviderC",
+      "moduleName": "FirebaseAppTemplate",
+      "isOpen": true,
+      "declAttributes": [
+        "AccessControl",
+        "ObjC"
+      ],
+      "hasMissingDesignatedInitializers": true
+    }
+  ],
+  "json_format_version": 6
+}

@@ -1,0 +1,28 @@
+{
+  "name": "EXGL",
+  "version": "11.1.2",
+  "summary": "Provides GLView that acts as OpenGL ES render target and gives GL context object implementing WebGL 2.0 specification.",
+  "description": "Provides GLView that acts as OpenGL ES render target and gives GL context object implementing WebGL 2.0 specification.",
+  "license": "MIT",
+  "authors": {
+    "name": "650 Industries, Inc."
+  },
+  "homepage": "https://docs.expo.dev/versions/latest/sdk/gl-view/",
+  "platforms": {
+    "ios": "12.0"
+  },
+  "source": {
+    "git": "https://github.com/expo/expo-gl.git"
+  },
+  "static_framework": true,
+  "dependencies": {
+    "ExpoModulesCore": [
+
+    ],
+    "EXGL_CPP": [
+
+    ]
+  },
+  "source_files": "EXGL/**/*.h",
+  "vendored_frameworks": "EXGL.xcframework"
+}

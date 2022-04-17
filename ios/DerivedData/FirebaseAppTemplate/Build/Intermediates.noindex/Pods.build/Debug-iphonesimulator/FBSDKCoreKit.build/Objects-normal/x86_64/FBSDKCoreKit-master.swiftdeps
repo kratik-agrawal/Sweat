@@ -1,0 +1,9 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "c74a37e14faec650a1d3bf2ae5ba8a7ad26d29ccaa6be3db2005762bf636da5d"
+build_start_time: [1650134753, 561923980]
+build_end_time: [1650134770, 306483983]
+inputs:
+  "/Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/AccessToken.swift": [1650134656, 54506778]
+  "/Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Imports.swift": [1650134656, 54674625]
+  "/Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Permission.swift": [1650134656, 54343700]
+  "/Users/kratik/Desktop/cs97/Bump/ios/Pods/FBSDKCoreKit/FBSDKCoreKit/FBSDKCoreKit/Swift/Settings.swift": [1650134656, 54829597]
