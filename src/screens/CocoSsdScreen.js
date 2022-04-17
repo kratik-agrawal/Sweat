@@ -141,7 +141,7 @@ export default class CocoSsdScreen extends React.Component {
     return (
       <View style={styles.welcomeContainer}>
         <Text  key={index} style={styles.text}>
-          Prediction: {'Verified Dumbbell'} 
+        Prediction: {pclass} 
         </Text>
       </View>
     )
@@ -206,7 +206,7 @@ export default class CocoSsdScreen extends React.Component {
         <View style={styles.predictionWrapper}>
           {isModelReady && image && (
             <Text style={styles.text}>
-              Dumbbell: {predictions ? '' : 'Verified'}
+              Dumbbell: {predictions ? '' : 'Detecting...'}
             </Text>
           )}
 
