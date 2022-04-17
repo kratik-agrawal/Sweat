@@ -1,5 +1,5 @@
 # Sweat
-
+<img width="992" alt="Screen Shot 2022-04-16 at 11 50 25 PM" src="https://user-images.githubusercontent.com/75349834/163705463-c41b3b7e-938d-4f1d-b848-469c0ac6ee3f.png">
 ## Inspiration
 
 Keeping yourself accountable to work out is hard sometimes. We want to give you that accountability with Sweat, an app that literally pays you to work out. 
@@ -82,7 +82,7 @@ Here are some things we have heard from those participating in the Beta Launch!
 - "Waiting"
 - "I’ve been looking for something like this"
 
-<img width="992" alt="Screen Shot 2022-04-16 at 11 50 25 PM" src="https://user-images.githubusercontent.com/75349834/163705463-c41b3b7e-938d-4f1d-b848-469c0ac6ee3f.png">
+
 <img width="562" alt="Screen Shot 2022-04-17 at 12 15 10 AM" src="https://user-images.githubusercontent.com/75349834/163705466-bef5632d-683f-4344-9285-bb8c4918e576.png">
 <img width="562" alt="Screen Shot 2022-04-17 at 12 15 47 AM" src="https://user-images.githubusercontent.com/75349834/163705468-ce6e7613-2c67-4c04-a1fb-43d1c0206031.png">
 <img width="562" alt="Screen Shot 2022-04-17 at 12 16 12 AM" src="https://user-images.githubusercontent.com/75349834/163705469-e58385e4-aad0-426b-8bce-1c04f155bf50.png">
