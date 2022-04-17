@@ -1,5 +1,6 @@
 # Sweat
 <img width="992" alt="Screen Shot 2022-04-16 at 11 50 25 PM" src="https://user-images.githubusercontent.com/75349834/163705463-c41b3b7e-938d-4f1d-b848-469c0ac6ee3f.png">
+
 ## Inspiration
 
 Keeping yourself accountable to work out is hard sometimes. We want to give you that accountability with Sweat, an app that literally pays you to work out. 
@@ -81,6 +82,12 @@ Here are some things we have heard from those participating in the Beta Launch!
 - "Would love it if something exists like that!"  
 - "Waiting"
 - "I’ve been looking for something like this"
+
+## To Build
+
+Clone our repo. 
+Run NPM Install
+Run NPM start and open an IOS simulator. We hope you can enjoy Sweat as much as did making it.
 
 
 <img width="562" alt="Screen Shot 2022-04-17 at 12 15 10 AM" src="https://user-images.githubusercontent.com/75349834/163705466-bef5632d-683f-4344-9285-bb8c4918e576.png">
