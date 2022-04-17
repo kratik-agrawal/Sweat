@@ -1,73 +1,84 @@
-# React Native Firebase App Template
+# Sweat
 
-Thanks for your purchase.
+## Inspiration
 
-In case of any questions or problems, please contact me at:
-hello@reactnativemarket.com
+Keeping yourself accountable to work out is hard sometimes. We want to give you that accountability with Sweat, an app that literally pays you to work out. 
 
-## Demo
+Some of us just need a little extra motivation to get in the gym a few more times a week. And a few of us already work out and wouldn’t mind some extra money or the thrill of it.
 
-https://react-native-app-template.web.app/
+**Sweat in the gym and the money $weats for you.**
 
-## How to use?
+## Who We Are
 
-1. Download or clone this repo.
+Just 2 UCLA Sophomores studying Computer Science. We have big dreams and high aspirations. 
 
-2. Install dependencies.
+I, Kratik Agrawal, love innovating. I interned at Google last summer and am returning once again this Summer working for Google Ads. I have pitched and iterated on many ideas in the past and also have founded my own 501(c)(3) organization. I am involved with Bruin Consulting, DevX, and intramural sports on Campus. I love working out myself for both the physical and mental benefits.
 
-```js
-npm install
-// or
-yarn install
-```
+I, Krish Shah, am an entrepreneur. I have started my own national business and run the business alongside school. I am involved with Research on campus and am also a member of Theta Tau at UCLA. I am THE target audience for Sweat, I need the thrill and accountability that Sweat provides.
 
-3. Go to `src/core/config.js` and replace `FIREBASE_CONFIG` with your own firebase config.
+## How it Works - The Concept
 
-```js
-export const FIREBASE_CONFIG = {
-  apiKey: 'xxx-yyy-zzz', // etc.
-  // rest of your firebase config
-}
-```
+It’s simple. 
+As a user you get to choose how much money you want to hedge or bet on yourself. 
+We accept amounts between **$10 and $100**. 
 
-4. Turn on **Google and Facebook Providers** inside your Firebase Project:
-   ![providers](https://storage.googleapis.com/nativeforms-labs.appspot.com/providers.png)
+You choose how many days you want to commit too.
+Anywhere between **3 to 7 days** a week.
 
-5. **Google Sign In** configuration:
+Complete the goal you set yourself too and earn an average of **7%** on your hedged amount.
 
-   1. Follow official Expo docs on Google Sign In: https://docs.expo.io/versions/latest/sdk/google/#using-it-inside-of-the-expo-app
-   2. Go to `src/core/config.js` and replace `ANDROID_GOOGLE_CLIENT_ID` and `IOS_GOOGLE_CLIENT_ID` with your own generated IDs.
-   3. Before submitting your app to Google Play, make sure to follow these docs: https://docs.expo.io/versions/latest/sdk/google/#deploying-to-a-standalone-app-on-android
-   4. Before submitting your app to App Store, make sure to follow these docs: https://docs.expo.io/versions/latest/sdk/google/#deploying-to-a-standalone-app-on-ios
+On the off chance that you miss a day or a few days _(things happen, people get lazy)_, we charge you a percentage of your money.
+For example, commit yourself to 7 days and miss 1 day and you get 80% of your investment back. 
+Or, commit yourself to 3 days and miss 1 day and you get 50% of your investment back.
 
-6. **Facebook Login** configuration:
+The money that people win comes from the money people lose on certain weeks. We take a small percentage of the money people lose (~10%), the rest goes back to our users. 
 
-   1. Follow official Expo docs on Facebook Login: https://docs.expo.io/versions/latest/sdk/facebook/#registering-your-app-with-facebook
-   2. Go to `app.json` and replace `facebookScheme`, `facebookAppId` and `facebookDisplayName` with your own generated IDs/names.
+_Sweat doesn't pay out its users out of pocket_
 
-7. Run project on iOS / Android.
+## How we Verify
+At the moment we are building only for people who go to commercial or college gyms*. 
 
-```js
- npm run ios // npm run android
- // or
- yarn ios // yarn android
-```
+We ask you to verify your current location when you attend the gym - a simple tap of a button.
+We then tell you a mystery item – all basic gym equipment – and ask you to upload a picture. Our ML algorithms recognize and classify the item and verify that you went to the gym. We may ask for a picture of a dumbbell, squat rack, or a 25 lb plate.
 
-## Preview
+That’s it!
 
-![start](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/start.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/forgot-password.png)
-![home](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/home.png)
-![drawer](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/drawer.png)
-![profile](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/profile.png)
+* We would love to support other forms of working out and are working to add functionality and support for: yoga studios, sports, runs, and more. 
 
-## Support
+## How we built it
 
-In case of any questions or problems, please contact me at:
-[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
+All of our front end is powered by React Native. Using an Expo project we are able to simulate the user experience on an app. Our backend and databases are powered by Firebase. We trained and launched our ML Models on the client side, we experimented with Apple’s tool Create ML and also used some Tensorflow capabilities to power our image classification algorithms. 
 
-### Happy Coding 🚀
+We use Google Cloud’s API to verify and locate a person’s current location and verify that they are in a gym. Our software development tools consisted of VSCode, the terminal, and XCode.
 
-### [ReactNativeMarket.com](http://reactnativemarket.com/)
+The process was long but we are proud of what we have to show🥳
+
+## Challenges we ran into and Accomplishments
+
+The biggest challenges were the environment and the Machine Learning algorithms. We ran into plenty of problems related to the React Native environment, mostly because of the intricacies of what we were completing. The Machine Learning Algorithm was a challenge but also our greatest accomplishment. It was something I never tried before and am excited that I was able to make it work.
+
+We are so proud of our final product and even happier that we are super close to a beta launch state, in fact its happening **next week**
+
+## What we learned
+
+A whole lot. We learned that hackathons are fun. We learned that LA Hacks has a great organizing team. We learned about our competing teams and their projects. We learned what being wired on coffee feels like. And of course we learned a whole lot of tech stuff.
+
+## What's next for Sweat
+
+We have big goals for Sweat. We are doing a Soft Launch/Beta test next week with UCLA students. We have generated and recorded interest from **over 100 students** and members of our community within this past weekend. We can’t wait to have active users within a week!
+
+As for our tech, we want to continue to develop and improve our user’s experience. 
+
+We want to add functionality for friend groups to compete and wage against each other – providing an additional thrill and buzz related to Sweat. 
+
+We also want to add more in app functionality, we want to be able to import your data from your Apple Watch and give you insight on your workouts. 
+
+And as mentioned before, we have a big emphasis on including other types of workouts. Not all of us are gym bros. We want to add sports, runs, yoga sessions, anything that calms and helps somebody. Part of this functionality will come from us developing new ways to verify and count  your workouts. We are so excited for what is to come.
+
+And lastly, some **merch** always is nice. Maybe we deploy this soon 👀
+
+Here are some things we have heard from those participating in the Beta Launch!
+- "Would love it if something exists like that!"  
+- "Waiting"
+- "I’ve been looking for something like this"
+
