@@ -38,7 +38,7 @@ The money that people win comes from the money people lose on certain weeks. We 
 
 _Sweat doesn't pay out its users out of pocket_
 
-## How we Verify
+## How I Verify
 At the moment we are building only for people who go to commercial or college gyms*. 
 
 We ask you to verify your current location when you attend the gym - a simple tap of a button.
@@ -56,7 +56,7 @@ I used Google Cloud’s API to verify and locate a person’s current location a
 
 The process was long but we are proud of what we have to show🥳
 
-## Challenges we ran into and Accomplishments
+## Challenges I ran into and Accomplishments
 
 The biggest challenges were the environment and the Machine Learning algorithms. I ran into plenty of problems related to the React Native environment, mostly because of the intricacies of what I was trying to complete. The Machine Learning Algorithm was a challenge but also my greatest accomplishment. It was something I never tried before and am excited that I was able to make it work.
 
