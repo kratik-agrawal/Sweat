@@ -82,3 +82,13 @@ Here are some things we have heard from those participating in the Beta Launch!
 - "Waiting"
 - "I’ve been looking for something like this"
 
+<img width="992" alt="Screen Shot 2022-04-16 at 11 50 25 PM" src="https://user-images.githubusercontent.com/75349834/163705463-c41b3b7e-938d-4f1d-b848-469c0ac6ee3f.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 15 10 AM" src="https://user-images.githubusercontent.com/75349834/163705466-bef5632d-683f-4344-9285-bb8c4918e576.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 15 47 AM" src="https://user-images.githubusercontent.com/75349834/163705468-ce6e7613-2c67-4c04-a1fb-43d1c0206031.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 16 12 AM" src="https://user-images.githubusercontent.com/75349834/163705469-e58385e4-aad0-426b-8bce-1c04f155bf50.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 16 32 AM" src="https://user-images.githubusercontent.com/75349834/163705470-2b3f08d1-4422-4fb9-a5ce-9f4637b6c0e5.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 16 49 AM" src="https://user-images.githubusercontent.com/75349834/163705472-99592c48-d54b-4468-a068-e7c88400198e.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 16 56 AM" src="https://user-images.githubusercontent.com/75349834/163705473-78c6299f-2652-4393-b860-445c9aa46ac1.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 17 09 AM" src="https://user-images.githubusercontent.com/75349834/163705474-528f9914-8004-4887-b057-bf2ab9cc52ee.png">
+<img width="562" alt="Screen Shot 2022-04-17 at 12 17 17 AM" src="https://user-images.githubusercontent.com/75349834/163705476-ec4d5bc9-7fbb-4232-8927-c77e4d64a6ea.png">
+<img width="881" alt="Screen Shot 2022-04-17 at 12 30 34 AM" src="https://user-images.githubusercontent.com/75349834/163705478-ff9d7dd4-9247-40ff-afa5-403eddd7dae2.png">
