@@ -11,11 +11,13 @@ Some of us just need a little extra motivation to get in the gym a few more time
 
 ## Who We Are
 
-Just 2 UCLA Sophomores studying Computer Science. We have big dreams and high aspirations. 
+For the scope of the hackathon, I competed by myself. But as we will share, our idea is going to launch very soon, and I have a cofounder Krish Shah. After the hackathon we will work together to iterate on our tech development and also business model. Together we are just 2 UCLA Sophomores studying Computer Science. We have some big dreams and high aspirations. 
 
+About Me
 I, Kratik Agrawal, love innovating. I interned at Google last summer and am returning once again this Summer working for Google Ads. I have pitched and iterated on many ideas in the past and also have founded my own 501(c)(3) organization. I am involved with Bruin Consulting, DevX, and intramural sports on Campus. I love working out myself for both the physical and mental benefits.
 
-I, Krish Shah, am an entrepreneur. I have started my own national business and run the business alongside school. I am involved with Research on campus and am also a member of Theta Tau at UCLA. I am THE target audience for Sweat, I need the thrill and accountability that Sweat provides.
+About my CoFounder
+I, Krish Shah, am an entrepreneur. With the help of others, I have started my own international business in the jewelry industry and run the business alongside school. Additionally, I've contributed to the UCLA HCI Lab as a research assistant creating advances in the field of human-computer interaction. I am THE target audience for Sweat, I need the thrill and accountability that Sweat provides.
 
 ## How it Works - The Concept
 
@@ -46,23 +48,23 @@ That’s it!
 
 * We would love to support other forms of working out and are working to add functionality and support for: yoga studios, sports, runs, and more. 
 
-## How we built it
+## How I built it
 
-All of our front end is powered by React Native. Using an Expo project we are able to simulate the user experience on an app. Our backend and databases are powered by Firebase. We trained and launched our ML Models on the client side, we experimented with Apple’s tool Create ML and also used some Tensorflow capabilities to power our image classification algorithms. 
+All of our front end is powered by React Native. Using an Expo project we are able to simulate the user experience on an app. Our backend and databases are powered by Firebase. I trained and launched our ML Models on the client side, we experimented with Apple’s tool Create ML and also used some Tensorflow capabilities to power our image classification algorithms. 
 
-We use Google Cloud’s API to verify and locate a person’s current location and verify that they are in a gym. Our software development tools consisted of VSCode, the terminal, and XCode.
+I used Google Cloud’s API to verify and locate a person’s current location and verify that they are in a gym. My software development tools of choice consisted of VSCode, the terminal, and XCode.
 
 The process was long but we are proud of what we have to show🥳
 
 ## Challenges we ran into and Accomplishments
 
-The biggest challenges were the environment and the Machine Learning algorithms. We ran into plenty of problems related to the React Native environment, mostly because of the intricacies of what we were completing. The Machine Learning Algorithm was a challenge but also our greatest accomplishment. It was something I never tried before and am excited that I was able to make it work.
+The biggest challenges were the environment and the Machine Learning algorithms. I ran into plenty of problems related to the React Native environment, mostly because of the intricacies of what I was trying to complete. The Machine Learning Algorithm was a challenge but also my greatest accomplishment. It was something I never tried before and am excited that I was able to make it work.
 
 We are so proud of our final product and even happier that we are super close to a beta launch state, in fact its happening **next week**
 
-## What we learned
+## What I learned
 
-A whole lot. We learned that hackathons are fun. We learned that LA Hacks has a great organizing team. We learned about our competing teams and their projects. We learned what being wired on coffee feels like. And of course we learned a whole lot of tech stuff.
+A whole lot. I learned that hackathons are fun. I learned that LA Hacks has a great organizing team. I learned about our competing teams and their projects. I learned what being wired on coffee feels like. And of course I learned a whole lot of tech stuff.
 
 ## What's next for Sweat
 
