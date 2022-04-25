@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildAndRun"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "31d2e2b72d53d07ca918f26ddca237e6aeae0723fa54f3e7c38ef49175a099cb"
+    }
+  ],
+  "containerPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/FirebaseStarterSwiftUIApp.xcworkspace",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.4",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Build/Products",
+      "derivedDataPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPod9,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.4",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "128AB5F5-7C7A-4FCB-9EB2-29347EBB4429",
+          "TARGET_DEVICE_MODEL" : "iPod9,1",
+          "TARGET_DEVICE_OS_VERSION" : "15.4",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

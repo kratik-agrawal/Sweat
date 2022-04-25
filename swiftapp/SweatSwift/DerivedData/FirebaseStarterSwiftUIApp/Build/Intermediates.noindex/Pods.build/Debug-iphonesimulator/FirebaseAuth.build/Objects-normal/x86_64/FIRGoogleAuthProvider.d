@@ -1,0 +1,8 @@
+dependencies: \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/Google/FIRGoogleAuthProvider.m \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRGoogleAuthProvider.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/Google/FIRGoogleAuthCredential.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/AuthProvider/FIRAuthCredential_Internal.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Public/FirebaseAuth/FIRAuthCredential.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Utilities/FIRAuthExceptionUtils.h

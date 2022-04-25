@@ -141,7 +141,7 @@ export default class CocoSsdScreen extends React.Component {
     return (
       <View style={styles.welcomeContainer}>
         <Text  key={index} style={styles.text}>
-        Prediction: {pclass} 
+          Prediction: {pclass} {', '} Probability: {score} {', '} Bbox: {x} {', '} {y} {', '} {w} {', '} {h} 
         </Text>
       </View>
     )
@@ -206,7 +206,7 @@ export default class CocoSsdScreen extends React.Component {
         <View style={styles.predictionWrapper}>
           {isModelReady && image && (
             <Text style={styles.text}>
-              Dumbbell: {predictions ? '' : 'Detecting...'}
+              Predictions: {predictions ? '' : 'Detecting...'}
             </Text>
           )}
 

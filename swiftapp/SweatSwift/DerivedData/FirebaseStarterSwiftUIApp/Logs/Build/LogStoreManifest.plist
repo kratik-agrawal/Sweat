@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>023CEF43-E836-4FC4-86D9-9F99DFFC9887</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>023CEF43-E836-4FC4-86D9-9F99DFFC9887.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672543007.18178296</real>
+			<key>timeStoppedRecording</key>
+			<real>672543008.61704195</real>
+			<key>title</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>023CEF43-E836-4FC4-86D9-9F99DFFC9887</string>
+		</dict>
+		<key>1A22289F-0E9E-466F-8D8C-A797590F6919</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1A22289F-0E9E-466F-8D8C-A797590F6919.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672542733.68911099</real>
+			<key>timeStoppedRecording</key>
+			<real>672542755.92754602</real>
+			<key>title</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>1A22289F-0E9E-466F-8D8C-A797590F6919</string>
+		</dict>
+		<key>528260E2-454D-4EB1-B8AA-323893978D3C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>528260E2-454D-4EB1-B8AA-323893978D3C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672542852.40152895</real>
+			<key>timeStoppedRecording</key>
+			<real>672542873.10871804</real>
+			<key>title</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>528260E2-454D-4EB1-B8AA-323893978D3C</string>
+		</dict>
+		<key>91807D74-2785-4B51-ABE4-565FCC05CB9C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>91807D74-2785-4B51-ABE4-565FCC05CB9C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672543017.65871</real>
+			<key>timeStoppedRecording</key>
+			<real>672543027.69276404</real>
+			<key>title</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>91807D74-2785-4B51-ABE4-565FCC05CB9C</string>
+		</dict>
+		<key>DA4B5082-737D-4A9C-9D2C-C957C55E3F31</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>DA4B5082-737D-4A9C-9D2C-C957C55E3F31.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672542727.67100501</real>
+			<key>timeStoppedRecording</key>
+			<real>672542733.36951101</real>
+			<key>title</key>
+			<string>Build FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>DA4B5082-737D-4A9C-9D2C-C957C55E3F31</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

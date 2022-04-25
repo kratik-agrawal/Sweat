@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.m \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/DerivedData/FirebaseStarterSwiftUIApp/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/FirebaseAuth.build/module.modulemap \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend+MultiFactor.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthBackend.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRPCResponse.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRIdentityToolkitRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/FIRAuthRequestConfiguration.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneRequestInfo.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/FIRAuthProto.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRFinalizeMFAEnrollmentResponse.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoFinalizeMFAPhoneResponseInfo.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneRequestInfo.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/SystemService/FIRAuthAppCredential.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Enroll/FIRStartMFAEnrollmentResponse.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/Proto/Phone/FIRAuthProtoStartMFAPhoneResponseInfo.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRFinalizeMFASignInResponse.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInRequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/SignIn/FIRStartMFASignInResponse.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFARequest.h \
+  /Users/kratik/Desktop/cs97/Sweat/swiftapp/SweatSwift/Pods/FirebaseAuth/FirebaseAuth/Sources/Backend/RPC/MultiFactor/Unenroll/FIRWithdrawMFAResponse.h

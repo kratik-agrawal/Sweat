@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>825771AD-4B0A-447F-8FE9-DE1BDC6C6163</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>825771AD-4B0A-447F-8FE9-DE1BDC6C6163.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672542873.19115305</real>
+			<key>timeStoppedRecording</key>
+			<real>672543001.34762299</real>
+			<key>title</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>825771AD-4B0A-447F-8FE9-DE1BDC6C6163</string>
+		</dict>
+		<key>8BD82B4D-8BD4-406F-A8C3-9870A930D8FD</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>8BD82B4D-8BD4-406F-A8C3-9870A930D8FD.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672543027.69758105</real>
+			<key>timeStoppedRecording</key>
+			<real>672543092.16256297</real>
+			<key>title</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>8BD82B4D-8BD4-406F-A8C3-9870A930D8FD</string>
+		</dict>
+		<key>AB63CB66-8E84-4EB8-A248-1245068704C0</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>AB63CB66-8E84-4EB8-A248-1245068704C0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FirebaseStarterSwiftUIApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FirebaseStarterSwiftUIApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>timeStartedRecording</key>
+			<real>672543008.62949204</real>
+			<key>timeStoppedRecording</key>
+			<real>672543015.13712394</real>
+			<key>title</key>
+			<string>Run FirebaseStarterSwiftUIApp</string>
+			<key>uniqueIdentifier</key>
+			<string>AB63CB66-8E84-4EB8-A248-1245068704C0</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
