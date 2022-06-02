@@ -17,11 +17,12 @@ struct SplashView: View {
                 WelcomeView(state: state)
             } else {
                 ZStack {
-                    Color(UIConfiguration.tintColor)
+                    Color(UIConfiguration.backgroundColor)
                         .edgesIgnoringSafeArea(.all)
                     Image("logo")
                         .resizable()
-                        .frame(width: 120, height: 120, alignment: .center)
+                        .frame(width: 250, height: 250, alignment: .top)
+                        //.colorMultiply(Color(UIConfiguration.tintColor))
                 }
             }
         }

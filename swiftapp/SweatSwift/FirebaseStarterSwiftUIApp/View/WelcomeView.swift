@@ -25,17 +25,18 @@ struct WelcomeView: View {
                 VStack(spacing: 40) {
                     Image("logo")
                         .resizable()
-                        .frame(width: 120, height: 120, alignment: .center)
-                        .colorMultiply(Color(UIConfiguration.tintColor))
+                        .frame(width: 250, height: 250, alignment: .center)
+                        //.colorMultiply(Color(UIConfiguration.tintColor))
                         .padding(.top, 100)
                     
-                    Text("Welcome to your app")
-                        .modifier(TextModifier(font: UIConfiguration.titleFont,
-                                               color: UIConfiguration.tintColor))
+                    //Text("Sweat")
+                       // .modifier(TextModifier(font: UIConfiguration.titleFont,
+                        //                       color: UIConfiguration.tintColor))
                     
-                    Text("Start your iOS app with this Firebase Swift Stater Kit")
+                    Text("Get Paid to Workout.")
                         .modifier(TextModifier(font: UIConfiguration.subtitleFont))
                         .padding(.horizontal, 60)
+            
                     
                     VStack(spacing: 25) {
                         Button(action: {
