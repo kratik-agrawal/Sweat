@@ -13,7 +13,6 @@
 		30127DD124DE506500576F65 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30127DD024DE506500576F65 /* Assets.xcassets */; };
 		30127DD424DE506500576F65 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 30127DD324DE506500576F65 /* Preview Assets.xcassets */; };
 		30127DD724DE506500576F65 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 30127DD524DE506500576F65 /* LaunchScreen.storyboard */; };
-		30127DDF24DE9F3400576F65 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 30127DDE24DE9F3400576F65 /* GoogleService-Info.plist */; };
 		30A39BED24DF999900EE7E2E /* SignUpViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30A39BEC24DF999900EE7E2E /* SignUpViewModel.swift */; };
 		30D8C5ED24E7755600CB0858 /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30D8C5EC24E7755600CB0858 /* WelcomeView.swift */; };
 		30D8C5EF24E77C8000CB0858 /* CustomModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30D8C5EE24E77C8000CB0858 /* CustomModifier.swift */; };
@@ -30,6 +29,7 @@
 		30F0AF9224E976410084CE6E /* SplashView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9124E976410084CE6E /* SplashView.swift */; };
 		30F0AF9824E9868D0084CE6E /* SignInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9724E9868D0084CE6E /* SignInViewModel.swift */; };
 		30F0AF9B24E989020084CE6E /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9A24E989020084CE6E /* CustomTextField.swift */; };
+		93C3F9C02848970A0082C793 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */; };
 		D86C249AD9B318D7EDABE111 /* Pods_FirebaseStarterSwiftUIApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33EF7DB6D4437A5CDC876808 /* Pods_FirebaseStarterSwiftUIApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -43,7 +43,6 @@
 		30127DD324DE506500576F65 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		30127DD624DE506500576F65 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		30127DD824DE506500576F65 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		30127DDE24DE9F3400576F65 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		30A39BEC24DF999900EE7E2E /* SignUpViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpViewModel.swift; sourceTree = "<group>"; };
 		30D8C5EC24E7755600CB0858 /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
 		30D8C5EE24E77C8000CB0858 /* CustomModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomModifier.swift; sourceTree = "<group>"; };
@@ -64,6 +63,7 @@
 		57AA80FA5CA6EE372A811F79 /* Pods-SwiftUIChatAppKit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIChatAppKit.release.xcconfig"; path = "Target Support Files/Pods-SwiftUIChatAppKit/Pods-SwiftUIChatAppKit.release.xcconfig"; sourceTree = "<group>"; };
 		7BDA8AF3125E28867EFB0E98 /* Pods-SwiftUIChatAppKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIChatAppKit.debug.xcconfig"; path = "Target Support Files/Pods-SwiftUIChatAppKit/Pods-SwiftUIChatAppKit.debug.xcconfig"; sourceTree = "<group>"; };
 		8445C9E02BCD321F08E7E9E0 /* Pods-FirebaseStarterSwiftUIApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; path = "Target Support Files/Pods-FirebaseStarterSwiftUIApp/Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; sourceTree = "<group>"; };
+		93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,7 +109,7 @@
 				30127DCC24DE506300576F65 /* SceneDelegate.swift */,
 				30127DD024DE506500576F65 /* Assets.xcassets */,
 				30127DD524DE506500576F65 /* LaunchScreen.storyboard */,
-				30127DDE24DE9F3400576F65 /* GoogleService-Info.plist */,
+				93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */,
 				30127DD824DE506500576F65 /* Info.plist */,
 				30127DD224DE506500576F65 /* Preview Content */,
 			);
@@ -231,7 +231,7 @@
 			isa = PBXProject;
 			attributes = {
 				LastSwiftUpdateCheck = 1150;
-				LastUpgradeCheck = 1150;
+				LastUpgradeCheck = 1340;
 				ORGANIZATIONNAME = "iOS App Templates";
 				TargetAttributes = {
 					30127DC624DE506300576F65 = {
@@ -263,7 +263,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				30127DD724DE506500576F65 /* LaunchScreen.storyboard in Resources */,
-				30127DDF24DE9F3400576F65 /* GoogleService-Info.plist in Resources */,
+				93C3F9C02848970A0082C793 /* GoogleService-Info.plist in Resources */,
 				30127DD424DE506500576F65 /* Preview Assets.xcassets in Resources */,
 				30127DD124DE506500576F65 /* Assets.xcassets in Resources */,
 			);
@@ -380,6 +380,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
@@ -440,6 +441,7 @@
 				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
 				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
 				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
 				CLANG_WARN_STRICT_PROTOTYPES = YES;
 				CLANG_WARN_SUSPICIOUS_MOVE = YES;
