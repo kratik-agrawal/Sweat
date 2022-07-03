@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/FBSDKAccessToken.h</key>
 		<data>
-		Zwalh7WGm73EGYq6r0hOtY6TVyM=
+		NxfW0PEjU5KsjEKN6FHi0xvZaWk=
 		</data>
 		<key>Headers/FBSDKAccessTokenProtocols.h</key>
 		<data>
-		QpJzB6oI1x1D3M0cC8Yw7FSuwKg=
+		51KZgSDZvEhP4wKlMv4pUTyQ250=
 		</data>
 		<key>Headers/FBSDKAdvertisingTrackingStatus.h</key>
 		<data>
@@ -94,15 +94,15 @@
 		</data>
 		<key>Headers/FBSDKAuthenticationToken.h</key>
 		<data>
-		8MSOJbkw+GYK17UVaHITUogBFow=
+		wCuzHayOAhUE4dP3TTKb51Pg5M8=
 		</data>
 		<key>Headers/FBSDKAuthenticationTokenClaims.h</key>
 		<data>
-		xojLcwuGpunIQjN3S1ntX2IxWxk=
+		rOziLqM25iOJir19PHDI7rgSspQ=
 		</data>
 		<key>Headers/FBSDKAuthenticationTokenProtocols.h</key>
 		<data>
-		ll9VzBIGgFDag+gJiL8CfwN8Vmc=
+		J18FJU942JcSjdA5Di5R3IKCpKI=
 		</data>
 		<key>Headers/FBSDKBridgeAPI.h</key>
 		<data>
@@ -150,7 +150,7 @@
 		</data>
 		<key>Headers/FBSDKCoreKit-Swift.h</key>
 		<data>
-		fu059kzrvFABk/Ncld4vk4y9vUI=
+		quNLmViT/sE/HIJQ4OzqTTlwv/0=
 		</data>
 		<key>Headers/FBSDKCoreKit.h</key>
 		<data>
@@ -158,7 +158,7 @@
 		</data>
 		<key>Headers/FBSDKCoreKitVersions.h</key>
 		<data>
-		5h80jtLpxKnIOkErVQzQ9esYVVM=
+		zCPcyRPGWLcSlrPGZU+3J0DvMyU=
 		</data>
 		<key>Headers/FBSDKDeviceButton.h</key>
 		<data>
@@ -330,7 +330,7 @@
 		</data>
 		<key>Headers/FBSDKProfile.h</key>
 		<data>
-		a1wf8Hf9JZZ6hWCfCShWPzBo7hk=
+		Oo/LPg2i7X9aA6w+3ybfmYauE4w=
 		</data>
 		<key>Headers/FBSDKProfilePictureView.h</key>
 		<data>
@@ -430,55 +430,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		lltDqe3Ami3QR7sP8HyMXHOd1Nk=
+		aLa57xUBikDfrfQ7sSOL5jZUz7U=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		xxy9Zg411X2b8tgLXwG0d+q8HJs=
+		DOn1650+XLGVLzq2p6rnXvynF10=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		MCNnHOKeoDSKGaOUJPZHqNwX8as=
+		CNOlK37zqj9ARZY+Noz/4VOP5jc=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		U1YB4ZwVD/iT+2nKP/SXuY7HVC8=
+		khl6NjNELDyjTmdkSR+BTcnjrRo=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		xxy9Zg411X2b8tgLXwG0d+q8HJs=
+		DOn1650+XLGVLzq2p6rnXvynF10=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		MCNnHOKeoDSKGaOUJPZHqNwX8as=
+		CNOlK37zqj9ARZY+Noz/4VOP5jc=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		U1YB4ZwVD/iT+2nKP/SXuY7HVC8=
+		khl6NjNELDyjTmdkSR+BTcnjrRo=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		W8QJ2rBBxhqbEZ8A1qLxEMiXjcs=
+		dkKnpCdYFeO0ud7RA/1qO+JgYN8=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		qMKtG8LoKGyhsXiGztt/a/hSzPQ=
+		asCLiEgQxQTybC7GQy2QAJa3R4Y=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		4MbDY0gj4SbSSa2pcWxhp43Gufo=
+		eOPJHDPaI4fLbR15CouSKWw+jo8=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		W8QJ2rBBxhqbEZ8A1qLxEMiXjcs=
+		dkKnpCdYFeO0ud7RA/1qO+JgYN8=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		qMKtG8LoKGyhsXiGztt/a/hSzPQ=
+		asCLiEgQxQTybC7GQy2QAJa3R4Y=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		4MbDY0gj4SbSSa2pcWxhp43Gufo=
+		eOPJHDPaI4fLbR15CouSKWw+jo8=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -491,14 +491,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1HuXQBYX9e+yfKLIyhwED67a3VCkpra3DxlLwws0NvA=
+			002n1eiLHllO5DEvUz6oHDtH+OL6runjRaBzjIEkJCM=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAccessTokenProtocols.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuMGgje9C8CglYD1qDMt29vcNIUBUZlTAdNo+qvSeXM=
+			96fFUnLHGeWkR9PVGJTwlm20p+tUP+srB6Ycy1rE3Rw=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAdvertisingTrackingStatus.h</key>
@@ -645,21 +645,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vMJ3N8rqdWY+q5wZWX5vjz3+YpiIueuJEVZ63TxUS6s=
+			Dq0LoWOWy9fCTsLb/LjHyB9Fb05pK3XL4+44eqgaZ3c=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAuthenticationTokenClaims.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aBU/e5udieGDwDgz+qcP4zTL0e86m4akTzjoHIZViY4=
+			fi7P3tpHlmeMY1cFkQfBi3FrgGlGd1lgsnB3QCu9g34=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAuthenticationTokenProtocols.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hunZocu2ArA/iddd/8a9xWZwt0gHDZPA7mNEhsFEgQ=
+			FQFSx2UgzspnEFR/PtLrZ2NNtopxT2VGU3nEUht3D7c=
 			</data>
 		</dict>
 		<key>Headers/FBSDKBridgeAPI.h</key>
@@ -743,7 +743,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			926NIy8nLmTFB9VLIZvz3MlJF/PLsp2Zl2P9Gwl6mXc=
+			lJucoMgX2EWDBa9Kb0WkeMzqx5IoajI8pDt47dzURDs=
 			</data>
 		</dict>
 		<key>Headers/FBSDKCoreKit.h</key>
@@ -757,7 +757,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KZ7nwRhL5CEca+znQ0DVoRblUrDBB2r4A/rsTIAq9m8=
+			C647VXNT/ztr/XZM4WSCX/MxUFaDNLKZ1b8NmvatKvQ=
 			</data>
 		</dict>
 		<key>Headers/FBSDKDeviceButton.h</key>
@@ -1058,7 +1058,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iG8YHX07jMMrMI6thsGnT/Xv5wMMTO52dV+w5SBO5fw=
+			Er5q1FuW4Jepa+xdoOBvKQqe7cAJb8PEr+FlsoVy1i0=
 			</data>
 		</dict>
 		<key>Headers/FBSDKProfilePictureView.h</key>
@@ -1233,84 +1233,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b0NWJFLpwCcLPhmEBR9nddAyxoKr5Vq22NDSG+aP57A=
+			HK6QgZRK1vFZoZ/x8vssXS5UfoMiwkJrm2sZB/hBWrY=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JWObaYJU/PggGrQHwchfQ/aUNsi3kVHdXF/z1evyj6c=
+			gBOEOMk60231DKOQkFDC9WVEH9hle4lg6bMx4iJ+HB8=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jGJD/eUr90vJ1uBZ0VvJMhIgZdu9/lxCCgGJJEVIS5o=
+			NdBwXQmTYzdmHMWjA/hBJVC26OVFELM76+fXEuTuoI8=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			b0NWJFLpwCcLPhmEBR9nddAyxoKr5Vq22NDSG+aP57A=
+			HK6QgZRK1vFZoZ/x8vssXS5UfoMiwkJrm2sZB/hBWrY=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JWObaYJU/PggGrQHwchfQ/aUNsi3kVHdXF/z1evyj6c=
+			gBOEOMk60231DKOQkFDC9WVEH9hle4lg6bMx4iJ+HB8=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			jGJD/eUr90vJ1uBZ0VvJMhIgZdu9/lxCCgGJJEVIS5o=
+			NdBwXQmTYzdmHMWjA/hBJVC26OVFELM76+fXEuTuoI8=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6s3gcexpAOU+1PYWGMOXnb/NtXZdPMcPwYZT6UeIsY=
+			pPa3sgadxnE2cPrCB2fb8FMBA1xTH/TyRId3fVG9pBA=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3CHw8Xc/bhdgN2dB5RQcx1QUd+toHCLILa+0VbDR+4=
+			yNajcZRE+repiIgKBkQvr0RAJDrC99mkbSzBrDsdavs=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLFfuPo05whSVSBPGRdgSbhE3dJK1YiLlPiHzEcwkfM=
+			LW1K+22VYHGvwDDMLSqhl73Pejo5EHYSz/Y5tv20z7A=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g6s3gcexpAOU+1PYWGMOXnb/NtXZdPMcPwYZT6UeIsY=
+			pPa3sgadxnE2cPrCB2fb8FMBA1xTH/TyRId3fVG9pBA=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			M3CHw8Xc/bhdgN2dB5RQcx1QUd+toHCLILa+0VbDR+4=
+			yNajcZRE+repiIgKBkQvr0RAJDrC99mkbSzBrDsdavs=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kLFfuPo05whSVSBPGRdgSbhE3dJK1YiLlPiHzEcwkfM=
+			LW1K+22VYHGvwDDMLSqhl73Pejo5EHYSz/Y5tv20z7A=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

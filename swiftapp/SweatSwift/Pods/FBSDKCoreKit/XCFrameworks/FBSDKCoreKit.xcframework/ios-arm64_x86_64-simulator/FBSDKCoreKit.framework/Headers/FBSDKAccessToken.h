@@ -8,6 +8,7 @@
 
 #import <Foundation/Foundation.h>
 
+#import <FBSDKCoreKit/FBSDKAccessTokenProtocols.h>
 #import <FBSDKCoreKit/FBSDKGraphRequestConnection.h>
 #import <FBSDKCoreKit/FBSDKTokenCaching.h>
 
@@ -64,7 +65,7 @@ NS_SWIFT_NAME(AccessTokenDidExpireKey);
 
 /// Represents an immutable access token for using Facebook services.
 NS_SWIFT_NAME(AccessToken)
-@interface FBSDKAccessToken : NSObject <NSCopying, NSObject, NSSecureCoding>
+@interface FBSDKAccessToken : NSObject <NSCopying, NSObject, NSSecureCoding, FBSDKAccessTokenProviding, FBSDKAccessTokenSetting>
 
 /**
  The "global" access token that represents the currently logged in user.
@@ -72,7 +73,7 @@ NS_SWIFT_NAME(AccessToken)
  The `currentAccessToken` is a convenient representation of the token of the
  current user and is used by other SDK components (like `FBSDKLoginManager`).
  */
-@property (class, nullable, nonatomic, copy) FBSDKAccessToken *currentAccessToken;
+@property (class, nullable, nonatomic, copy) FBSDKAccessToken *currentAccessToken NS_SWIFT_NAME(current);
 
 /// Returns YES if currentAccessToken is not nil AND currentAccessToken is not expired
 @property (class, nonatomic, readonly, getter = isCurrentAccessTokenActive, assign) BOOL currentAccessTokenIsActive;

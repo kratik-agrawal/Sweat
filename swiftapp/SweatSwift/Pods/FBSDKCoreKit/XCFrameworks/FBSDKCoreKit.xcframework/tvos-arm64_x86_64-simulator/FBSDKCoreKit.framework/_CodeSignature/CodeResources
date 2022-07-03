@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/FBSDKAccessToken.h</key>
 		<data>
-		Zwalh7WGm73EGYq6r0hOtY6TVyM=
+		NxfW0PEjU5KsjEKN6FHi0xvZaWk=
 		</data>
 		<key>Headers/FBSDKAccessTokenProtocols.h</key>
 		<data>
-		QpJzB6oI1x1D3M0cC8Yw7FSuwKg=
+		51KZgSDZvEhP4wKlMv4pUTyQ250=
 		</data>
 		<key>Headers/FBSDKAdvertisingTrackingStatus.h</key>
 		<data>
@@ -66,15 +66,15 @@
 		</data>
 		<key>Headers/FBSDKAuthenticationToken.h</key>
 		<data>
-		8MSOJbkw+GYK17UVaHITUogBFow=
+		wCuzHayOAhUE4dP3TTKb51Pg5M8=
 		</data>
 		<key>Headers/FBSDKAuthenticationTokenClaims.h</key>
 		<data>
-		xojLcwuGpunIQjN3S1ntX2IxWxk=
+		rOziLqM25iOJir19PHDI7rgSspQ=
 		</data>
 		<key>Headers/FBSDKAuthenticationTokenProtocols.h</key>
 		<data>
-		ll9VzBIGgFDag+gJiL8CfwN8Vmc=
+		J18FJU942JcSjdA5Di5R3IKCpKI=
 		</data>
 		<key>Headers/FBSDKButton.h</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Headers/FBSDKCoreKit-Swift.h</key>
 		<data>
-		fu059kzrvFABk/Ncld4vk4y9vUI=
+		quNLmViT/sE/HIJQ4OzqTTlwv/0=
 		</data>
 		<key>Headers/FBSDKCoreKit.h</key>
 		<data>
@@ -98,7 +98,7 @@
 		</data>
 		<key>Headers/FBSDKCoreKitVersions.h</key>
 		<data>
-		5h80jtLpxKnIOkErVQzQ9esYVVM=
+		zCPcyRPGWLcSlrPGZU+3J0DvMyU=
 		</data>
 		<key>Headers/FBSDKDeviceButton.h</key>
 		<data>
@@ -310,55 +310,55 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		GL1702Rme3Ytl3O1VMtq9bWX7KQ=
+		UhHfhdXKqprvqmUUK5fq6VIk2w8=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		ZrWzlJawpsjKWNXlpmAyba7QC1w=
+		YelZQh3QMgUS5VWf6hh5GZvrgNs=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		pmukDPtWzfjdrOHMBT+gFs0TEJo=
+		bKJMw0EmEDSpmS9MECwMxu5lmVA=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		WVr5yAlFEJ0tSYhISJq24wSCOgk=
+		QszLAE0eIyylFEBSuU6uvJMI11w=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftdoc</key>
 		<data>
-		ZrWzlJawpsjKWNXlpmAyba7QC1w=
+		YelZQh3QMgUS5VWf6hh5GZvrgNs=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftinterface</key>
 		<data>
-		pmukDPtWzfjdrOHMBT+gFs0TEJo=
+		bKJMw0EmEDSpmS9MECwMxu5lmVA=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftmodule</key>
 		<data>
-		WVr5yAlFEJ0tSYhISJq24wSCOgk=
+		QszLAE0eIyylFEBSuU6uvJMI11w=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<data>
-		8kfwMPUBSu2lhB+8EYWm/1aZKHA=
+		kUg624u+CAKvc+orwjNKTASUp+Q=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<data>
-		GQQdqqQQSo0V7KBfEqhLxoohm5c=
+		2mmgZqGRkfxziTtDHWiCkUsZWuY=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<data>
-		VoPMe0iUnFXF2MdlpcE889xnYxg=
+		nB7Tkk/s9/nuD4ShR1Fs6UdZQpY=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		8kfwMPUBSu2lhB+8EYWm/1aZKHA=
+		kUg624u+CAKvc+orwjNKTASUp+Q=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		GQQdqqQQSo0V7KBfEqhLxoohm5c=
+		2mmgZqGRkfxziTtDHWiCkUsZWuY=
 		</data>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		VoPMe0iUnFXF2MdlpcE889xnYxg=
+		nB7Tkk/s9/nuD4ShR1Fs6UdZQpY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -371,14 +371,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1HuXQBYX9e+yfKLIyhwED67a3VCkpra3DxlLwws0NvA=
+			002n1eiLHllO5DEvUz6oHDtH+OL6runjRaBzjIEkJCM=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAccessTokenProtocols.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			VuMGgje9C8CglYD1qDMt29vcNIUBUZlTAdNo+qvSeXM=
+			96fFUnLHGeWkR9PVGJTwlm20p+tUP+srB6Ycy1rE3Rw=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAdvertisingTrackingStatus.h</key>
@@ -476,21 +476,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vMJ3N8rqdWY+q5wZWX5vjz3+YpiIueuJEVZ63TxUS6s=
+			Dq0LoWOWy9fCTsLb/LjHyB9Fb05pK3XL4+44eqgaZ3c=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAuthenticationTokenClaims.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aBU/e5udieGDwDgz+qcP4zTL0e86m4akTzjoHIZViY4=
+			fi7P3tpHlmeMY1cFkQfBi3FrgGlGd1lgsnB3QCu9g34=
 			</data>
 		</dict>
 		<key>Headers/FBSDKAuthenticationTokenProtocols.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9hunZocu2ArA/iddd/8a9xWZwt0gHDZPA7mNEhsFEgQ=
+			FQFSx2UgzspnEFR/PtLrZ2NNtopxT2VGU3nEUht3D7c=
 			</data>
 		</dict>
 		<key>Headers/FBSDKButton.h</key>
@@ -518,7 +518,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			926NIy8nLmTFB9VLIZvz3MlJF/PLsp2Zl2P9Gwl6mXc=
+			lJucoMgX2EWDBa9Kb0WkeMzqx5IoajI8pDt47dzURDs=
 			</data>
 		</dict>
 		<key>Headers/FBSDKCoreKit.h</key>
@@ -532,7 +532,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KZ7nwRhL5CEca+znQ0DVoRblUrDBB2r4A/rsTIAq9m8=
+			C647VXNT/ztr/XZM4WSCX/MxUFaDNLKZ1b8NmvatKvQ=
 			</data>
 		</dict>
 		<key>Headers/FBSDKDeviceButton.h</key>
@@ -903,84 +903,84 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3lDUPX1SQgNYlbCsapPQdMQ2uID4A97JtWymTXrxdHI=
+			95huUi9r49HrqRZaOjLpIba5k4u98H28i8vx9Ewp0uA=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YeYV3CesIZWMD+4zweGHgxz40VwFZLgFaLUM8UfsDrU=
+			lQMEHGHEEjWQMsivzP7s1J9s9DkcSQW1NwEqVs1Nn8M=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONiLBjkTzPH2E9EPuET3GNZ2btXdDZkI42ZDGUaEjXk=
+			j1F9mQ3ZYqa7lGRY++ZczkeUPeWE106TKCuudpqQpgU=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3lDUPX1SQgNYlbCsapPQdMQ2uID4A97JtWymTXrxdHI=
+			95huUi9r49HrqRZaOjLpIba5k4u98H28i8vx9Ewp0uA=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YeYV3CesIZWMD+4zweGHgxz40VwFZLgFaLUM8UfsDrU=
+			lQMEHGHEEjWQMsivzP7s1J9s9DkcSQW1NwEqVs1Nn8M=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/arm64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ONiLBjkTzPH2E9EPuET3GNZ2btXdDZkI42ZDGUaEjXk=
+			j1F9mQ3ZYqa7lGRY++ZczkeUPeWE106TKCuudpqQpgU=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5IWlQY05qYRjtGMQSWJ2hGQjdXCFycN0eTNHE3Bpdk=
+			rPM4pZxQruEmGy5VN72rWI7KMpr4vvR4bC+RBezkz3s=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kKS2mNYWsiJ1v+/fZehbhioadtXDQixBMm4jzFDsvDY=
+			kaYMiREH0nYStw9ndcVGcz3Q+Z9RLm1D/ev6mh3Ni4c=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64-apple-tvos-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99ZC/vKmuj1W+s8wgFZbhf+mZXltGNmN7dSbo/GKaiQ=
+			KDN7a2GoK9CIpNiWf9Ryv+pvTgyiGBnriKG/yddUALo=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N5IWlQY05qYRjtGMQSWJ2hGQjdXCFycN0eTNHE3Bpdk=
+			rPM4pZxQruEmGy5VN72rWI7KMpr4vvR4bC+RBezkz3s=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			kKS2mNYWsiJ1v+/fZehbhioadtXDQixBMm4jzFDsvDY=
+			kaYMiREH0nYStw9ndcVGcz3Q+Z9RLm1D/ev6mh3Ni4c=
 			</data>
 		</dict>
 		<key>Modules/FBSDKCoreKit.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			99ZC/vKmuj1W+s8wgFZbhf+mZXltGNmN7dSbo/GKaiQ=
+			KDN7a2GoK9CIpNiWf9Ryv+pvTgyiGBnriKG/yddUALo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

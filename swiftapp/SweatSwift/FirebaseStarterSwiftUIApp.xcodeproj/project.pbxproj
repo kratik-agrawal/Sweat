@@ -30,6 +30,9 @@
 		30F0AF9824E9868D0084CE6E /* SignInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9724E9868D0084CE6E /* SignInViewModel.swift */; };
 		30F0AF9B24E989020084CE6E /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9A24E989020084CE6E /* CustomTextField.swift */; };
 		93C3F9C02848970A0082C793 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */; };
+		C4A4A524286E367900DFBE14 /* HouseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4A4A523286E367900DFBE14 /* HouseView.swift */; };
+		C4DB8780286CCE2300E9DE60 /* SecondSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DB877F286CCE2300E9DE60 /* SecondSignUpView.swift */; };
+		C4DB8782286CE2D500E9DE60 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DB8781286CE2D500E9DE60 /* ProfileView.swift */; };
 		D86C249AD9B318D7EDABE111 /* Pods_FirebaseStarterSwiftUIApp.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 33EF7DB6D4437A5CDC876808 /* Pods_FirebaseStarterSwiftUIApp.framework */; };
 /* End PBXBuildFile section */
 
@@ -64,6 +67,9 @@
 		7BDA8AF3125E28867EFB0E98 /* Pods-SwiftUIChatAppKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIChatAppKit.debug.xcconfig"; path = "Target Support Files/Pods-SwiftUIChatAppKit/Pods-SwiftUIChatAppKit.debug.xcconfig"; sourceTree = "<group>"; };
 		8445C9E02BCD321F08E7E9E0 /* Pods-FirebaseStarterSwiftUIApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; path = "Target Support Files/Pods-FirebaseStarterSwiftUIApp/Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; sourceTree = "<group>"; };
 		93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C4A4A523286E367900DFBE14 /* HouseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseView.swift; sourceTree = "<group>"; };
+		C4DB877F286CCE2300E9DE60 /* SecondSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSignUpView.swift; sourceTree = "<group>"; };
+		C4DB8781286CE2D500E9DE60 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +147,9 @@
 				30D8C5EC24E7755600CB0858 /* WelcomeView.swift */,
 				30DDE0BC24EC21E900208D32 /* DrawerView.swift */,
 				30DDE0BE24EC2A7C00208D32 /* HomeView.swift */,
+				C4DB877F286CCE2300E9DE60 /* SecondSignUpView.swift */,
+				C4DB8781286CE2D500E9DE60 /* ProfileView.swift */,
+				C4A4A523286E367900DFBE14 /* HouseView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -321,6 +330,7 @@
 				30D8C5EF24E77C8000CB0858 /* CustomModifier.swift in Sources */,
 				30F0AF9224E976410084CE6E /* SplashView.swift in Sources */,
 				30DDE0C124EC2AD300208D32 /* AppState.swift in Sources */,
+				C4A4A524286E367900DFBE14 /* HouseView.swift in Sources */,
 				30D8C5ED24E7755600CB0858 /* WelcomeView.swift in Sources */,
 				30127DCB24DE506300576F65 /* AppDelegate.swift in Sources */,
 				30DDE0B924EABC9700208D32 /* User.swift in Sources */,
@@ -336,6 +346,8 @@
 				30D8C5F124E77CFB00CB0858 /* UIConfiguration.swift in Sources */,
 				30127DCF24DE506300576F65 /* SignInView.swift in Sources */,
 				30F0AF9824E9868D0084CE6E /* SignInViewModel.swift in Sources */,
+				C4DB8780286CCE2300E9DE60 /* SecondSignUpView.swift in Sources */,
+				C4DB8782286CE2D500E9DE60 /* ProfileView.swift in Sources */,
 				30F0AF9B24E989020084CE6E /* CustomTextField.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -477,8 +489,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/FirebaseStarterSwiftUIApp/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -497,8 +511,10 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_ASSET_PATHS = "";
+				DEVELOPMENT_TEAM = "";
 				ENABLE_PREVIEWS = YES;
 				INFOPLIST_FILE = "$(SRCROOT)/FirebaseStarterSwiftUIApp/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

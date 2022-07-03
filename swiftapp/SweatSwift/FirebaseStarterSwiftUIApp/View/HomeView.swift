@@ -9,10 +9,12 @@
 import SwiftUI
 
 struct HomeView: View {
-    @State var isDrawerOpen: Bool = false
+    @State var isDrawerOpen: Bool = false;
     @ObservedObject var state: AppState
     var body: some View {
+        
         ZStack {
+            
             NavigationView {
                 Text("Welcome \(state.currentUser?.email ?? "Not found")")
                     .navigationBarItems(leading: Button(action: {
@@ -21,8 +23,25 @@ struct HomeView: View {
                         Image(systemName: "sidebar.left")
                     })
             }
+            TabView {
+                HouseView()
+                    .tabItem() {
+                        Image(systemName: "house.fill")
+                        Text("Home")
+                }
+                ProfileView()
+                    .tabItem() {
+                        Image(systemName: "person.fill")
+                        Text("Profile")
+                    }
+                
+            }.accentColor(.orange)
+            
             DrawerView(isOpen: self.$isDrawerOpen)
         }.navigationBarTitle("", displayMode: .inline)
             .navigationBarHidden(true)
+        
+        
     }
+    
 }

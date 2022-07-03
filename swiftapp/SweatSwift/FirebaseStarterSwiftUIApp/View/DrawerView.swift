@@ -12,7 +12,7 @@ struct DrawerContent: View {
     @Environment(\.presentationMode) var presentationMode: Binding<PresentationMode>
     var body: some View {
         ZStack {
-            Color.blue
+            Color.orange
             Button(action: { self.presentationMode.wrappedValue.dismiss() }) {
                 Text("Log out")
                     .modifier(TextModifier(font: UIConfiguration.buttonFont, color: .white))

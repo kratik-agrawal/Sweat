@@ -1,5 +1,5 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 5.5 (swiftlang-1300.0.31.1 clang-1300.0.29.1)
+// swift-compiler-version: Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)
 // swift-module-flags: -target x86_64-apple-tvos11.0-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name FBSDKCoreKit
 @_exported import FBSDKCoreKit
 import FBSDKCoreKit_Basics
@@ -24,12 +24,12 @@ extension FBSDKCoreKit.AccessToken {
   @objc func configure(factory: FBSDKCoreKit.GraphRequestFactoryProtocol, settings: FBSDKCoreKit.SettingsProtocol)
   @objc func recordEvent(_ parameters: [Swift.String : Any])
 }
-@objc @_inheritsConvenienceInitializers @objcMembers public class FBSDKAppEventsCAPIManager : ObjectiveC.NSObject, FBSDKCoreKit.CAPIReporter {
+@objc @_inheritsConvenienceInitializers @objcMembers final public class FBSDKAppEventsCAPIManager : ObjectiveC.NSObject, FBSDKCoreKit.CAPIReporter {
   @objc public static let shared: FBSDKCoreKit.FBSDKAppEventsCAPIManager
   @objc override dynamic public init()
-  @objc public func configure(factory: FBSDKCoreKit.GraphRequestFactoryProtocol, settings: FBSDKCoreKit.SettingsProtocol)
-  @objc public func enable()
-  @objc public func recordEvent(_ parameters: [Swift.String : Any])
+  @objc final public func configure(factory: FBSDKCoreKit.GraphRequestFactoryProtocol, settings: FBSDKCoreKit.SettingsProtocol)
+  @objc final public func enable()
+  @objc final public func recordEvent(_ parameters: [Swift.String : Any])
   @objc deinit
 }
 @objc @_inheritsConvenienceInitializers @objcMembers public class FBSDKTransformerGraphRequestFactory : ObjectiveC.NSObject {
