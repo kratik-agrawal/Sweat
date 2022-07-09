@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 51;
+	objectVersion = 52;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -30,6 +30,7 @@
 		30F0AF9824E9868D0084CE6E /* SignInViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9724E9868D0084CE6E /* SignInViewModel.swift */; };
 		30F0AF9B24E989020084CE6E /* CustomTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 30F0AF9A24E989020084CE6E /* CustomTextField.swift */; };
 		93C3F9C02848970A0082C793 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */; };
+		C444C12D2878C689005E6DFA /* FirestoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = C444C12C2878C689005E6DFA /* FirestoreManager.swift */; };
 		C4A4A524286E367900DFBE14 /* HouseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4A4A523286E367900DFBE14 /* HouseView.swift */; };
 		C4DB8780286CCE2300E9DE60 /* SecondSignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DB877F286CCE2300E9DE60 /* SecondSignUpView.swift */; };
 		C4DB8782286CE2D500E9DE60 /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4DB8781286CE2D500E9DE60 /* ProfileView.swift */; };
@@ -67,6 +68,7 @@
 		7BDA8AF3125E28867EFB0E98 /* Pods-SwiftUIChatAppKit.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-SwiftUIChatAppKit.debug.xcconfig"; path = "Target Support Files/Pods-SwiftUIChatAppKit/Pods-SwiftUIChatAppKit.debug.xcconfig"; sourceTree = "<group>"; };
 		8445C9E02BCD321F08E7E9E0 /* Pods-FirebaseStarterSwiftUIApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; path = "Target Support Files/Pods-FirebaseStarterSwiftUIApp/Pods-FirebaseStarterSwiftUIApp.debug.xcconfig"; sourceTree = "<group>"; };
 		93C3F9BF2848970A0082C793 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		C444C12C2878C689005E6DFA /* FirestoreManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirestoreManager.swift; sourceTree = "<group>"; };
 		C4A4A523286E367900DFBE14 /* HouseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HouseView.swift; sourceTree = "<group>"; };
 		C4DB877F286CCE2300E9DE60 /* SecondSignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondSignUpView.swift; sourceTree = "<group>"; };
 		C4DB8781286CE2D500E9DE60 /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
@@ -169,6 +171,7 @@
 			children = (
 				30F0AF8B24E92D160084CE6E /* AuthAPI.swift */,
 				30F0AF8D24E92E360084CE6E /* AuthService.swift */,
+				C444C12C2878C689005E6DFA /* FirestoreManager.swift */,
 			);
 			path = Service;
 			sourceTree = "<group>";
@@ -229,6 +232,8 @@
 			dependencies = (
 			);
 			name = FirebaseStarterSwiftUIApp;
+			packageProductDependencies = (
+			);
 			productName = SwiftUIChatAppKit;
 			productReference = 30127DC724DE506300576F65 /* FirebaseStarterSwiftUIApp.app */;
 			productType = "com.apple.product-type.application";
@@ -257,6 +262,9 @@
 				Base,
 			);
 			mainGroup = 30127DBE24DE506300576F65;
+			packageReferences = (
+				C444C12E2878FE5F005E6DFA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+			);
 			productRefGroup = 30127DC824DE506300576F65 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -327,6 +335,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C444C12D2878C689005E6DFA /* FirestoreManager.swift in Sources */,
 				30D8C5EF24E77C8000CB0858 /* CustomModifier.swift in Sources */,
 				30F0AF9224E976410084CE6E /* SplashView.swift in Sources */,
 				30DDE0C124EC2AD300208D32 /* AppState.swift in Sources */,
@@ -548,6 +557,17 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		C444C12E2878FE5F005E6DFA /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 9.12.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
 	};
 	rootObject = 30127DBF24DE506300576F65 /* Project object */;
 }
